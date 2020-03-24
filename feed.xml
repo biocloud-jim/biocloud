@@ -3,12 +3,54 @@
     <title>改變，換個象限看世界</title>
     <link href="https://biocloud-jim.github.io/biocloud/feed.xml" rel="self" />
     <link href="https://biocloud-jim.github.io/biocloud" />
-    <updated>2020-03-24T12:08:13+08:00</updated>
+    <updated>2020-03-24T12:27:40+08:00</updated>
     <author>
         <name>biocloud</name>
     </author>
     <id>https://biocloud-jim.github.io/biocloud</id>
 
+    <entry>
+        <title>First Cook</title>
+        <author>
+            <name>biocloud</name>
+        </author>
+        <link href="https://biocloud-jim.github.io/biocloud/first-cook.html"/>
+        <id>https://biocloud-jim.github.io/biocloud/first-cook.html</id>
+
+        <updated>2020-03-24T12:20:08+08:00</updated>
+            <summary>
+                <![CDATA[
+                    This is the first cooktest
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3 id="mcetoc_1e45c9hkh0">This is the first cook</h3>
+<p>test</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>My second post</title>
+        <author>
+            <name>biocloud</name>
+        </author>
+        <link href="https://biocloud-jim.github.io/biocloud/my-second-post.html"/>
+        <id>https://biocloud-jim.github.io/biocloud/my-second-post.html</id>
+            <category term="test post"/>
+
+        <updated>2020-03-24T12:12:37+08:00</updated>
+            <summary>
+                <![CDATA[
+                    this is the second post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                this is the second post
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About this web</title>
         <author>
