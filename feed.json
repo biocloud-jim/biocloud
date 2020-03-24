@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "改變，換個象限看世界",
+    "description": "",
+    "home_page_url": "https://biocloud-jim.github.io/biocloud",
+    "feed_url": "https://biocloud-jim.github.io/biocloud/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "biocloud"
+    },
+    "items": [
+    ]
+}
