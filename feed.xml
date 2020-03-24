@@ -3,7 +3,7 @@
     <title>改變，換個象限看世界</title>
     <link href="https://biocloud-jim.github.io/biocloud/feed.xml" rel="self" />
     <link href="https://biocloud-jim.github.io/biocloud" />
-    <updated>2020-03-24T12:27:40+08:00</updated>
+    <updated>2020-03-24T12:40:56+08:00</updated>
     <author>
         <name>biocloud</name>
     </author>
@@ -17,16 +17,18 @@
         <link href="https://biocloud-jim.github.io/biocloud/first-cook.html"/>
         <id>https://biocloud-jim.github.io/biocloud/first-cook.html</id>
 
-        <updated>2020-03-24T12:20:08+08:00</updated>
+        <updated>2020-03-24T12:36:14+08:00</updated>
             <summary>
                 <![CDATA[
-                    This is the first cooktest
+                    This is the first cooktest first link
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h3 id="mcetoc_1e45c9hkh0">This is the first cook</h3>
 <p>test</p>
+<p> </p>
+<p>first link</p>
             ]]>
         </content>
     </entry>
@@ -39,15 +41,18 @@
         <id>https://biocloud-jim.github.io/biocloud/my-second-post.html</id>
             <category term="test post"/>
 
-        <updated>2020-03-24T12:12:37+08:00</updated>
+        <updated>2020-03-24T12:35:08+08:00</updated>
             <summary>
                 <![CDATA[
-                    this is the second post
+                    this is the second post hajiejaosi asjdkalfsjdklf;djsklfj 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                this is the second post
+                <p>this is the second post</p>
+<p>hajiejaosi</p>
+<p>asjdkalfsjdklf;djsklfj</p>
+<p> </p>
             ]]>
         </content>
     </entry>
